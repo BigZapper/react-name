@@ -7,7 +7,7 @@ Tại thư mục project dùng lệnh sau
 ### `npm start`
 
 App sẽ được run trong mạng local<br />
-Mở đường dẫn [http://localhost:8081](http://localhost:8081) để xem nó trên trình duyệt.
+Mở đường dẫn [http://localhost:3000](http://localhost:3000) để xem nó trên trình duyệt.
 
 Trang này sẽ tự động load khi có thay đổi trên code.<br />
 Các lỗi nếu có sẽ hiển thị trên cửa sổ console của trình duyệt
